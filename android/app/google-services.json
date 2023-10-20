@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939215074017",
+    "project_id": "razorpay-demo-1c294",
+    "storage_bucket": "razorpay-demo-1c294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939215074017:android:f17c2b5b924452395efda0",
+        "android_client_info": {
+          "package_name": "com.example.razorpay_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_dt_6sFVcIo6O4YFk92QIuyNkR_scVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
